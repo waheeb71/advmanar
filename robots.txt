@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /tools/
 
-Sitemap: https://manaradv.com/sitemap.xml
+Sitemap: https://advmanar.netlify.app/sitemap.xml

@@ -10,7 +10,7 @@ export const SITE = {
   brandAdv: "MANAR ADV",
   slogan: "Print Your Vision",
   sloganAr: "نطبع رؤيتك بدقة واحترافية",
-  domain: "https://manaradv.com",
+  domain: "https://advmanar.netlify.app",
   phoneDisplay: "+966 54 310 1777",
   phoneHref: "+966543101777",
   landlineDisplay: "013 502 5272",
