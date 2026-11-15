@@ -13,7 +13,7 @@ export const SITE = {
   domain: "https://advmanar.netlify.app",
   phoneDisplay: "+966 54 310 1777",
   phoneHref: "+966543101777",
-  landlineDisplay: "013 502 5272",
+  landlineDisplay: "054 310 1777",
   landlineHref: "+966135025272",
   whatsapp: "966543101777",
   city: "الدمام",
