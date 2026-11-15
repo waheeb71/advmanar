@@ -1,0 +1,32 @@
+{
+  "name": "وكالة منار الخليج للدعاية والإعلان",
+  "short_name": "منار الخليج",
+  "description": "وكالة منار الخليج للدعاية والإعلان وحلول الطباعة واللوحات واليونيفورم والتغليف في المملكة العربية السعودية.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fafbfe",
+  "theme_color": "#061536",
+  "icons": [
+    {
+      "src": "/assets/brand/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/brand/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/brand/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

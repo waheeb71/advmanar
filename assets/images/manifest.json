@@ -1,0 +1,92 @@
+{
+  "manar-storefront-signage": {
+    "width": 720,
+    "height": 962,
+    "category": "signage",
+    "alt": "لوحة تجارية ثلاثية الأبعاد مضيئة وواجهة مقر وكالة منار الخليج للدعاية والإعلان"
+  },
+  "custom-paper-cups": {
+    "width": 720,
+    "height": 721,
+    "category": "packaging",
+    "alt": "طباعة أكواب ورقية وكارتونية مخصصة للمقاهي والشركات من وكالة منار الخليج"
+  },
+  "custom-carton-box": {
+    "width": 720,
+    "height": 599,
+    "category": "packaging",
+    "alt": "تصنيع وطباعة بوكسات وكراتين منتجات وهدايا مخصصة"
+  },
+  "national-day-mugs": {
+    "width": 720,
+    "height": 474,
+    "category": "gifts",
+    "alt": "طباعة حرارية لمجات وأكواب سيراميك لليوم الوطني والمناسبات المؤسسية"
+  },
+  "vehicle-branding-truck": {
+    "width": 720,
+    "height": 392,
+    "category": "stickers",
+    "alt": "تجليد وتركيب استيكر فينيل للسيارات والشاحنات وحافلات الشركات"
+  },
+  "ecommerce-shipping-boxes": {
+    "width": 720,
+    "height": 722,
+    "category": "packaging",
+    "alt": "علب وبوكسات كرتونية متينة للمتاجر الإلكترونية وشركات التوصيل"
+  },
+  "restaurant-food-boxes": {
+    "width": 720,
+    "height": 723,
+    "category": "packaging",
+    "alt": "طباعة وتفصيل علب وجبات ومطاعم وبيتزا آمنة غذائياً"
+  },
+  "exhibition-popup-stand": {
+    "width": 720,
+    "height": 882,
+    "category": "banners",
+    "alt": "استاند بوب اب كيرف وخلفيات معارض ومؤتمرات بجودة طباعة فوتوغرافية"
+  },
+  "embroidered-caps-green": {
+    "width": 720,
+    "height": 496,
+    "category": "apparel",
+    "alt": "تطريز كمبيوتري فخم لشعارات الشركات على الكابات والقبعات"
+  },
+  "printed-promotional-cap": {
+    "width": 720,
+    "height": 711,
+    "category": "apparel",
+    "alt": "طباعة كابات دعائية ملونة للفعاليات والأنشطة الترويجية"
+  },
+  "luxury-black-paper-bags": {
+    "width": 720,
+    "height": 574,
+    "category": "packaging",
+    "alt": "أكياس ورقية سوداء فاخرة بطباعة هوية بالبصمة الذهبية والمعدنية"
+  },
+  "thermal-travel-tumblers": {
+    "width": 720,
+    "height": 405,
+    "category": "gifts",
+    "alt": "أكواب وحوافظ حرارية ومجات ستانلس ستيل للطباعة وحفر الليزر"
+  },
+  "die-cut-greeting-cards": {
+    "width": 720,
+    "height": 391,
+    "category": "print",
+    "alt": "كروت شخصية وبطاقات إهداء مقصوصة ليزرياً للمناسبات والأعياد"
+  },
+  "boutique-shopping-bag": {
+    "width": 720,
+    "height": 551,
+    "category": "packaging",
+    "alt": "أكياس تسوق ورقية راقية للمتاجر وبوتيكات الأزياء"
+  },
+  "og-cover": {
+    "width": 1200,
+    "height": 630,
+    "category": "branding",
+    "alt": "وكالة منار الخليج للدعاية والإعلان — حلول الطباعة واللوحات والهدايا الإعلانية"
+  }
+}
